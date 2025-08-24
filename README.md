@@ -1,15 +1,21 @@
 # Hi 👋, I'm Arafath MSM
 
 Welcome to my GitHub profile!  
-I'm a passionate developer who loves exploring open-source projects and learning new technologies.
+Passionate and detail-oriented Software Engineer with hands-on experience in full-stack development, cloud services, and DevOps practices.
 
 ---
 
 ## 🛠️ Languages & Tools
 
-- **Primary Languages:** Ruby, JavaScript, Python, Shell, HTML, CSS
-- **Frameworks & Libraries:** Ruby on Rails, Django, Sinatra, Merb, DataMapper, Hpricot, jQuery
-- **Other Tools:** Git, Capistrano, ActiveRecord, OpenGL, Nginx, AWS, Firefox extensions, SQLite3
+ Programing languages: Java, Python, JavaScript, PHP, C#
+ Frameworks & Libraries: React JS, Laravel, Spring-Boot , .NET Core, ASP.NET MVC, FastAPI , Django, AngularJS, Bootstrap
+ Web Technologies: HTML, CSS, RESTful APIs, Microservices
+ DevOps Docker, CI/CD Pipeline
+ AWS S3, Lambda, API GateWay, CloudWatch, AWS Transcribe, AWS Comprehend, IAM
+ GCP DataFlow, CloudBuild, AppEngine, Storage, etc.
+ Database MySQL, SQLite, MongoDB, PostgreSQL, SQL Server
+ Version Control Git, GitHub, Gitlab
+ Machine Learning Pandas, NumPy, Scikt-Learn, Matplotlib, Seaborn, XGBoost, CatBoost  Testing tools Postman, selenium, Junit
 
 ---
 
