@@ -7,15 +7,15 @@ Passionate and detail-oriented Software Engineer with hands-on experience in ful
 
 ## 🛠️ Languages & Tools
 
- Programing languages: Java, Python, JavaScript, PHP, C#
- Frameworks & Libraries: React JS, Laravel, Spring-Boot , .NET Core, ASP.NET MVC, FastAPI , Django, AngularJS, Bootstrap
- Web Technologies: HTML, CSS, RESTful APIs, Microservices
- DevOps Docker, CI/CD Pipeline
- AWS S3, Lambda, API GateWay, CloudWatch, AWS Transcribe, AWS Comprehend, IAM
- GCP DataFlow, CloudBuild, AppEngine, Storage, etc.
- Database MySQL, SQLite, MongoDB, PostgreSQL, SQL Server
- Version Control Git, GitHub, Gitlab
- Machine Learning Pandas, NumPy, Scikt-Learn, Matplotlib, Seaborn, XGBoost, CatBoost  Testing tools Postman, selenium, Junit
+**Programing languages:** Java, Python, JavaScript, PHP, C#
+**Frameworks & Libraries:** React JS, Laravel, Spring-Boot , .NET Core, ASP.NET MVC, FastAPI , Django, AngularJS, Bootstrap
+**Web Technologies:** HTML, CSS, RESTful APIs, Microservices
+**DevOps:** Docker, CI/CD Pipeline
+**AWS:** S3, Lambda, API GateWay, CloudWatch, AWS Transcribe, AWS Comprehend, IAM
+**GCP:** DataFlow, CloudBuild, AppEngine, Storage, etc.
+**Database:** MySQL, SQLite, MongoDB, PostgreSQL, SQL Server
+**Version Control:** Git, GitHub, Gitlab
+**Machine Learning:** Pandas, NumPy, Scikt-Learn, Matplotlib, Seaborn, XGBoost, CatBoost  Testing tools Postman, selenium, Junit
 
 ---
 
