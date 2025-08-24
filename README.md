@@ -3,6 +3,9 @@
 Welcome to my GitHub profile!  
 Passionate and detail-oriented Software Engineer and open source contributor with hands-on experience in full-stack development, cloud services, and DevOps practices.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Coder animation" width="400"/>
+</p>
 ---
 
 ## 🛠️ Languages & Tools
