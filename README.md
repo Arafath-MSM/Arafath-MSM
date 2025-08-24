@@ -68,7 +68,6 @@ Passionate and detail-oriented Software Engineer with hands-on experience in ful
 ## 🚀 Featured Projects
 
 Here are some interesting projects I've contributed to or forked.  
-*(These are just a sample—find more at [github.com/Arafath-MSM?tab=repositories](https://github.com/Arafath-MSM?tab=repositories))*
 
 - [grit](https://github.com/mojombo/grit): Object-oriented read/write access to Git repositories via Ruby
 - [merb-core](https://github.com/wycats/merb-core): Merb Core: All you need. None you don't.
