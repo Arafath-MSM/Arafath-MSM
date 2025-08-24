@@ -1,7 +1,7 @@
 # Hi 👋, I'm Arafath MSM
 
 Welcome to my GitHub profile!  
-Passionate and detail-oriented Software Engineer with hands-on experience in full-stack development, cloud services, and DevOps practices.
+Passionate and detail-oriented Software Engineer and open source contributor with hands-on experience in full-stack development, cloud services, and DevOps practices.
 
 ---
 
