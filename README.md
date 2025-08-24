@@ -65,22 +65,6 @@ Passionate and detail-oriented Software Engineer and open source contributor wit
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
-## 🚀 Featured Projects
-
-Here are some interesting projects I've contributed to or forked.  
-
-- [grit](https://github.com/mojombo/grit): Object-oriented read/write access to Git repositories via Ruby
-- [merb-core](https://github.com/wycats/merb-core): Merb Core: All you need. None you don't.
-- [rubinius](https://github.com/rubinius/rubinius): The Rubinius Language Platform
-- [god](https://github.com/mojombo/god): Ruby process monitor
-- [jsawesome](https://github.com/vanpelt/jsawesome): Awesome JSON
-- [restful-authentication](https://github.com/technoweenie/restful-authentication): Inactive project for authentication
-- [sinatra](https://github.com/bmizerany/sinatra): Classy web-development dressed in a DSL
-- [chronic](https://github.com/mojombo/chronic): Pure Ruby natural language date parser
-- [git-wiki](https://github.com/sr/git-wiki): A quick & dirty git-powered Sinatra wiki
-- [django-mptt](https://github.com/brosner/django-mptt): Utilities for implementing a modified pre-order traversal tree in Django
-
----
 
 ## 📈 GitHub Stats
 
