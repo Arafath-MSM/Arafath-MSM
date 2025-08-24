@@ -45,4 +45,3 @@ You can find more on my [GitHub Profile](https://github.com/Arafath-MSM).
 
 ---
 
-<sup>*Note: This list is a sample from my public activity. For a full list, visit my repositories on GitHub.*</sup>
